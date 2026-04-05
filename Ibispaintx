@@ -1,0 +1,33 @@
+{
+  "Update": false,
+  "welcome": true,
+  "duration": "3d",
+  "welcome_link": "https://t.me/fiancycreator",
+  "welcome_more_subtitle": "help information",
+  "welcome_more_content": "if you want to help or motivate us\n you can donate telegram stars or support us \n our channels https://t.me/sargentflux & https://t.me/fiancycreator",
+  "theme": "white",
+  "rgb_border": true,
+  "force_exit": false,
+  "title": "Node Video",
+  "subtitle": "Latest: v8.4.6 - Update",
+  "banner_url": "https://i.ibb.co/0RqPpvZD/100112302.jpg",
+  "whatsnew": "Improved video node performance\nEnhanced editing smoothness\nMinor UI adjustments and bug fixes",
+  "social_icons": [
+    {
+      "img": "https://i.postimg.cc/rmW7QSFH/849418ffbc8461453caa4847d0aba21a.jpg",
+      "link": "https://t.me/fiancycreator"    },
+    {
+      "img": "https://i.postimg.cc/MGtS10Hf/1001126408.jpg",
+      "link": "https://t.me/sargentflux"
+    },
+    {
+      "img": "https://i.postimg.cc/440X8156/1001126406.jpg",
+      "link": "https://t.me/sargentflux"
+    }
+  ],
+  "link": "https://t.me/sargentflux",
+  "btn_update": "DOWNLOAD",
+  "btn_later": "LATER",
+  "more_title": "Details",
+  "more_content": "Optimized video editing performance\nReduced memory usage\nImproved compatibility with latest Android versions"
+}
